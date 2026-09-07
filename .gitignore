@@ -1,0 +1,200 @@
+# ============================================================
+# Python
+# ============================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# ============================================================
+# Virtual environments
+# ============================================================
+.venv/
+venv/
+env/
+ENV/
+.env/
+.python-version
+
+# ============================================================
+# Environment / secrets / credentials
+# ============================================================
+.env
+.env.*
+!.env.example
+
+*.secret
+*.secrets
+*.token
+*.tokens
+
+# Certificates / private keys
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+*.der
+
+# Credential/config files
+credentials.json
+client_secret.json
+service-account.json
+secrets.json
+secrets.yaml
+secrets.yml
+config.local.*
+config.private.*
+
+# ============================================================
+# Runtime generated results / evaluation artifacts
+# ============================================================
+rag_results.json
+rag_results_bad.json
+evaluation_results.json
+
+runs/
+run/
+runtime/
+tmp/
+temp/
+output/
+outputs/
+results/
+reports/
+artifacts/
+
+# Checkpoint / resume state
+checkpoints/
+checkpoint/
+*.checkpoint
+*.ckpt
+*.state
+*.lock
+
+# Logs
+logs/
+*.log
+*.log.*
+*.trace
+
+# ============================================================
+# Databases / local state
+# ============================================================
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.sqlite-journal
+
+# ============================================================
+# Test / coverage / tooling caches
+# ============================================================
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.pyre/
+.ruff_cache/
+.tox/
+.nox/
+.hypothesis/
+.cache/
+*.coverage
+
+# ============================================================
+# Build / packaging
+# ============================================================
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+MANIFEST
+
+# ============================================================
+# Jupyter
+# ============================================================
+.ipynb_checkpoints/
+
+# ============================================================
+# IDE / editors
+# ============================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.sublime-workspace
+*.sublime-project
+
+# ============================================================
+# OS generated files
+# ============================================================
+.DS_Store
+.DS_Store?
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+Icon?
+.directory
+
+# ============================================================
+# Temporary / backup files
+# ============================================================
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.orig
+*~
+*.part
+*.download
+*.crdownload
+
+# ============================================================
+# Python tooling / local metadata
+# ============================================================
+.pytype/
+pyrightconfig.local.json
+
+# ============================================================
+# Local SharePoint / enterprise test material
+# ============================================================
+sharepoint/
+documents/
+source_documents/
+private_data/
+test_data/
+local_data/
+
+# Prevent accidental exports containing enterprise content
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+
+# ============================================================
+# Local manifests / automation state
+# ============================================================
+manifest.local.json
+manifest.private.json
+batch_state.json
+job_state.json
+
+# ============================================================
+# Local machine / deployment overrides
+# ============================================================
+docker-compose.override.yml
+compose.override.yml
+*.local.yml
+*.local.yaml
+*.local.json
+
