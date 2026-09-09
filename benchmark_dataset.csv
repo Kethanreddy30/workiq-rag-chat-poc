@@ -1,0 +1,51 @@
+question_id,query,answer
+Q001,What is the maximum operating speed of the attraction?,The maximum operating speed is 80 km/h.
+Q002,What is the minimum rider height?,The minimum rider height is 120 cm.
+Q003,What type of safety restraint is used?,The attraction uses over-the-shoulder safety restraints.
+Q004,Where is the emergency stop control located?,The emergency stop control is located at the operator control panel.
+Q005,How many riders can each vehicle carry?,Each vehicle can carry 24 riders.
+Q006,What is the maximum ride duration in minutes?,The maximum ride duration is 4 minutes.
+Q007,Does the document state that riders below 120 cm are permitted?,No. The document states a minimum rider height of 120 cm.
+Q008,Does the document say the attraction can operate during a lightning storm?,No. The document does not permit operation during a lightning storm.
+Q009,What is the required operator position during operation?,The operator must remain at the designated control panel during operation.
+Q010,What is the recommended inspection frequency?,The attraction should receive a daily pre-operation inspection.
+Q011,What weather condition requires the attraction to stop operating?,Severe lightning conditions require the attraction to stop operating.
+Q012,What must riders do before dispatch?,Riders must secure the restraint and follow the operator's safety instructions before dispatch.
+Q013,What is the maximum wind speed for operation?,The maximum wind speed for operation is 45 km/h.
+Q014,How many emergency stop controls are provided?,Two emergency stop controls are provided.
+Q015,Does the document say guests may enter the restricted maintenance area?,No. Guests are not permitted to enter the restricted maintenance area.
+Q016,Does the document state that restraints may be left unsecured if the ride is short?,No. Riders must have their restraints properly secured before dispatch.
+Q017,What time does the attraction open?,The attraction opens at 9:00 AM.
+Q018,What time does the attraction close?,The attraction closes at 8:00 PM.
+Q019,What is the total length of the ride track?,The total track length is 850 meters.
+Q020,How many vehicles does the attraction operate?,The attraction operates 3 vehicles.
+Q021,What is the maximum g-force experienced during the ride?,The maximum g-force experienced is 3.5 G.
+Q022,What is the maximum weight limit per rider?,The maximum weight limit per rider is 150 kg.
+Q023,How many operators are required to run the attraction?,A minimum of 2 operators are required to run the attraction.
+Q024,Who performs the secondary restraint check before dispatch?,The operator performs a secondary restraint check on every vehicle before dispatch.
+Q025,What happens when an emergency stop is activated?,All vehicles decelerate to a controlled stop at the nearest designated stopping point.
+Q026,How often is a full mechanical inspection required?,A full mechanical inspection is required weekly.
+Q027,How often is the attraction inspected by a third-party certifier?,The attraction is inspected by a third-party certifier annually.
+Q028,Are loose articles such as phones and bags permitted on the ride?,No. Loose articles must be stored in the provided bins before boarding.
+Q029,Is there a maximum age limit for riders?,No maximum age limit is specified; only the minimum height requirement of 120 cm applies.
+Q030,What safety announcement language requirement applies?,Safety announcements must be given in at least English and the local language.
+Q031,What is the minimum number of staff required at the loading platform?,At least 2 staff members are required at the loading platform.
+Q032,How long does a full evacuation of one vehicle take under the documented procedure?,A full evacuation of one vehicle takes approximately 5 minutes under the documented procedure.
+Q033,Is re-riding without exiting the platform permitted?,No. Riders must exit through the designated exit before re-entering the queue.
+Q034,What is the approximate hourly rider throughput of the attraction?,The approximate hourly rider throughput is 480 riders.
+Q035,What material are the safety restraints made of?,The safety restraints are padded steel with a reinforced locking mechanism.
+Q036,Does the document permit operation with one of the two emergency stop controls out of service?,No. The document requires both emergency stop controls to be functional before operation.
+Q037,What is the minimum staff certification requirement to operate the attraction?,Operators must complete the manufacturer's certified training program before operating the attraction.
+Q038,What is the maximum queue wait time target stated in the document?,The document does not specify a maximum queue wait time.
+Q039,Are riders permitted to keep hats on during the ride?,The document does not specify a policy on wearing hats during the ride.
+Q040,What is the recommended maintenance interval for the restraint locking mechanisms specifically?,"The restraint locking mechanisms require inspection monthly, separate from the daily pre-operation inspection."
+Q041,Does the document allow pregnant riders?,No. The document states that pregnant riders should not ride the attraction.
+Q042,What is the required staff response time after an emergency stop is activated?,Staff must respond to the loading platform within 30 seconds of an emergency stop activation.
+Q043,Is the attraction wheelchair accessible for boarding?,The boarding platform includes a wheelchair-accessible ramp; riders must still meet the restraint and height requirements to ride.
+Q044,What is the required operator shift rotation?,Operators must rotate positions or take a break at least every 2 hours.
+Q045,Does the document specify a policy for guests with loose long hair?,The document does not specify a policy regarding loose long hair.
+Q046,What is the ride's total elevation change?,The ride's total elevation change is 22 meters.
+Q047,How many restraint check points does a vehicle pass through before dispatch?,Each vehicle passes through two restraint check points before dispatch: the initial operator check and the secondary check.
+Q048,Does the document permit night-time operation of the attraction?,Yes. The document permits operation after dark provided all platform and track lighting is functional.
+Q049,What should staff do if a rider's restraint cannot be properly secured?,"If a restraint cannot be properly secured, the rider must not be dispatched and should be directed to platform staff for reseating or removal."
+Q050,Does the document require a test cycle before the attraction opens to guests?,Yes. The document requires a full test cycle with an empty vehicle before the attraction opens to guests each day.
