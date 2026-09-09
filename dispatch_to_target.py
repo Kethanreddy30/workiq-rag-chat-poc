@@ -30,9 +30,10 @@ from dataclasses import asdict, dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
-
+from dotenv import load_dotenv
 import requests
 
+load_dotenv()
 # ---------------------------------------------------------------------------
 # Config - all overridable via environment variables, defaults sized for a
 # one-off 50-row batch against an endpoint whose real limits are unknown.
